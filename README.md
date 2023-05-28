@@ -1,3 +1,3 @@
 # Franco500
 
-School project about Francopohnie/French culture.
+School project about Francophonie/French culture.
